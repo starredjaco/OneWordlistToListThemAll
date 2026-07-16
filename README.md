@@ -7,7 +7,7 @@
 
 ## What? <a name="what" />
 
-OneWordlistToListThemAll is a huge mix of password wordlists, proven to be pretty useful to provide some quick hits when cracking several hashes. Feel free to hit me up if any link in here no longer works.
+OneWordlistToListThemAll is a huge mix of password wordlists, useful to provide some quick hits when cracking many hashes. Feel free to hit me up if any link in here no longer works.
 
 ## How? <a name="how" />
 
